@@ -10,5 +10,5 @@ Nach dem Aufruf von
   
 kann im Browser <http://localhost:9200/_plugin/head> aufgerufen werden und es sollte ein Seite ähnlich dieser ausgeliefert werden.  
   
-!(elastic.png)
+!(https://github.com/rpi-virtuell/vagrant-elasticsearch/raw/master/elastic.png)
 
