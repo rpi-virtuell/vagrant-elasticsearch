@@ -6,9 +6,9 @@ auf die Elasticsearch Instanz zugegriffen werden kann.
   
 Nach dem Aufruf von  
   
-**vagrant up**  
+`vagrant up`  
   
-kann im Browser <http://localhost:9200/_plugin/head> aufgerufen werden und es sollte ein Seite ähnlich dieser ausgeliefert werden.  
+kann im Browser <http://localhost:9200/_plugin/head> aufgerufen werden und es sollte eins Seite ähnlich dieser ausgeliefert werden.  
   
-!(https://github.com/rpi-virtuell/vagrant-elasticsearch/raw/master/elastic.png)
+!(/rpi-virtuell/vagrant-elasticsearch/raw/master/elastic.png)
 
