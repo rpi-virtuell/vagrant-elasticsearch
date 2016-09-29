@@ -1,7 +1,7 @@
 # vagrant-elasticsearch
 
 Installiert Elasticsearch und das head Plugin in einer VM.  
-Es wird ein Portforwar von Port 9200 eingerichtet, so das mit localhost:9200 vom Hostsystem
+Es wird ein Portforward von Port 9200 eingerichtet, so das mit localhost:9200 vom Hostsystem
 auf die Elasticsearch Instanz zugegriffen werden kann.  
   
 Nach dem Aufruf von  
